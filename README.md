@@ -4,7 +4,7 @@ Lista de conteúdos DevOps gratuitos em português para quem deseja se aventurar
 
 * [Youtube](youtube.md)
 * [Cursos](cursos.md)
-* [Blogs](blog.md)
+* [Blogs](blogs.md)
 * [Mentorias](mentorias.md)
 * [Palestras](palestras.md)
 * [Eventos](eventos.md)
