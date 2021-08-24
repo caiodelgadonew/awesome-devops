@@ -34,3 +34,7 @@ Se você já tentou alguma vez aprender sobre containers mas achou a linguagem c
 ### Descrição:
 Devido a pandemia do Coronavirus (COVID-19), Jeferson Fernando liberou o acesso público a este repositório como forma de ajudar no combate a pandemia incentivando as pessoas a ficarem em casa adquirindo o conhecimento e se aprimorando na profissão para poderem contribuir no local de trabalho ou mesmo se prepararem para novas oportunidades.
 
+## [Curso de monitoração com o Prometheus](https://github.com/cirolini/prometheus-curso-monitoring)
+
+## Descrição
+Esse curso ensina como usar o Prometheus como uma ferramenta integrada de monitoração, entender seus conceitos, usar grande parte de seu ecossistema, e ainda usar o Grafana para gerar dashboards.
